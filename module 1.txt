@@ -1,0 +1,10 @@
+1.	What is software?
+Ans. It is a set of instructions, data and programs used to operate computer or execute tasks.
+2.	What are the types of applications?
+Ans. Application software can be broken down into three main categories: internet applications, office applications, and entertainment applications. However, under those broad categories are many different types of software, each with their own purposes and use cases.
+3.	What Is programming?
+Ans. It is used to create a program.
+-Types of programming language.
+for ex -Procedural programming, object-oriented programming, logical programming, functional programming.
+4.	What is python?
+Ans. Application software can be broken down into three main categories: internet applications, office applications, and entertainment applications. However, under those broad categories are many different types of software, each with their own purposes and use cases.
